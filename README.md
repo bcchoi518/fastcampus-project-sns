@@ -1,1 +1,1 @@
-# fastcampusSnsProject
+# fastcampus-project-sns
